@@ -1,5 +1,5 @@
 <div> 
-<h1 align="center">Hi 👋, I´m Agusriin Purici</h1>
+<h1 align="center">Hi 👋, I´m Agustin Purici</h1>
 </div>
 <h3 align="center">I'm a junior Full Stack Web Developer</h3>
 
